@@ -1,3 +1,4 @@
+// Cấu hình Tailwind CSS
 import type { Config } from "tailwindcss";
 
 export default {
